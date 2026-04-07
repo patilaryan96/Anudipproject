@@ -1,0 +1,11 @@
+# Eclipse metadata (optional to keep out of repo)
+.settings/
+
+# Java build outputs
+bin/
+out/
+*.class
+
+# OS files
+Thumbs.db
+.DS_Store
